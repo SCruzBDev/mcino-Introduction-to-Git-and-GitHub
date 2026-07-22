@@ -1,4 +1,5 @@
 $ git branch -vv
+  bug-fix-revert     988c410 Revert fix
   bug-fix-typo       58135b0 Fix typo
   fix-markdown-error 628c813 Fix simple interest formula in README
-* main               b3a26be [origin/main: adelante 2] Add merge_branches output file
+* main               09e4feb [origin/main] Add github-branches output file
